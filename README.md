@@ -11,7 +11,7 @@ I'm a passionate full-stack web developer with a strong foundation in modern web
 
 ## 💼 Experience
 
-I have 1 Year of experience working on a variety of projects, from building interactive user interfaces to designing and implementing robust server-side logic. My proficiency in the MERN stack allows me to develop end-to-end solutions that meet both user requirements and industry standards.
+I have 2 Year of experience working on a variety of projects, from building interactive user interfaces to designing and implementing robust server-side logic. My proficiency in the MERN stack allows me to develop end-to-end solutions that meet both user requirements and industry standards.
 
 ## 🌟 What Sets Me Apart
 
