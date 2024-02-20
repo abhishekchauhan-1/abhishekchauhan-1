@@ -1,4 +1,4 @@
-# 💫 Hey There! I am Abhishek Singh Chauhan, a Full Stack Web Developer From this Planet Earth:
+# 💫 Hey There! I am Abhishek Singh Chauhan, a Full Stack Web & Mobile Developer From this Planet Earth:
 
 I'm a passionate full-stack web developer with a strong foundation in modern web technologies. My journey in the world of web development has equipped me with a versatile skill set, enabling me to create dynamic and responsive web applications that not only look great but also function flawlessly.
 
